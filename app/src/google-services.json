@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "601239189727",
+    "firebase_url": "https://gucci-ecommerce-default-rtdb.firebaseio.com",
+    "project_id": "gucci-ecommerce",
+    "storage_bucket": "gucci-ecommerce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601239189727:android:df8433a6f0ba450622116a",
+        "android_client_info": {
+          "package_name": "com.gucci"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601239189727-9pqli6i59lioffti8ud3r9vefj0q1q2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd1XSIPzMcAXStouis8pTGpNXORGdsuC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601239189727-9pqli6i59lioffti8ud3r9vefj0q1q2t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

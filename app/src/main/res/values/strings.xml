@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">gucci</string>
+    <string name="title_gucci">Gucci E-Commerce</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_categories">Categories</string>
+    <string name="menu_cart">Cart</string>
+    <string name="menu_settings">Settings</string>
+    <string name="tag_line_find_your">Find your</string>
+    <string name="tag_line_match_style">match style</string>
+    <string name="title_add_to_cart">Add to Cart</string>
+    <string name="title_my_cart">My Cart</string>
+    <string name="title_your_cart_is_empty">Your cart is empty</string>
+    <string name="title_sub_total">Sub total :</string>
+    <string name="title_shipping">Shipping :</string>
+    <string name="title_bag_total">Bag total :</string>
+    <string name="title_gucci_ecommerce_com">gucci@ecommerce.com</string>
+    <string name="title_log_out">Log out</string>
+    <string name="title_about">About</string>
+    <string name="title_send_feedback">Send Feedback</string>
+    <string name="title_rate_us_on_playstore">Rate us on Playstore</string>
+    <string name="title_sign_in">Sign In</string>
+    <string name="title_fashion_in_your_pocket">Fashion in your pocket</string>
+    <string name="title_pocket">pocket</string>
+    <string name="title_forgot_password">Forgot Password?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="title_let_s_start">Let\'s Start</string>
+    <string name="title_shopping">Shopping</string>
+    <string name="title_full_name">Full Name</string>
+    <string name="title_phone_number">Phone Number</string>
+    <string name="title_email_address">Email Address</string>
+    <string name="title_password">Password</string>
+    <string name="title_already_have_an_account">Already have an account?</string>
+    <string name="title_password_asterisk">********</string>
+    <string name="title_big_fashion_festival_2022">BIG FASHION FESTIVAL 2022</string>
+    <string name="title_coming_soon">Coming Soon</string>
+    <string name="title_remove_from_cart">Remove from cart</string>
+    <string name="title_under_dev">Under development</string>
+
+<!--    message-->
+    <string name="title_user_registered">User registered successfully</string>
+    <string name="title_user_register_failed">Failed to register user</string>
+    <string name="title_user_already_registered">User is already registered</string>
+    <string name="title_fill_all_field"> Please fill all the fields</string>
+    <string name="title_don_t_have_an_account">Don\'t have an account?</string>
+    <string name="title_new_password">New Password</string>
+    <string name="title_confirm_password">Confirm Password</string>
+    <string name="title_reset_password">Reset Password</string>
+    <string name="title_pw_mismatch">Password doesn\'t match</string>
+    <string name="title_pw_reset">Password reset successfully</string>
+    <string name="title_user_no_exist">User doesn\'t exist</string>
+    <string name="title_incorrect">Incorrect Password</string>
+    <string name="title_sign_in_success">Signed in successfully</string>
+    <string name="title_logout_success"> Logged out successfully</string>
+    <string name="title_added_to_fav">Added to favourites</string>
+    <string name="title_removed_from_fav">Removed from favourites</string>
+    <string name="title_checkout">Checkout</string>
+</resources>
